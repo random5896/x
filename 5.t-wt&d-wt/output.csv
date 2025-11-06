@@ -1,0 +1,5 @@
+Class\Type, Play, , , No Play, , , Total
+,Count, t-weight, d-weight, Count, t-weight, d-weight, Count, t-weight, d-weight
+High Humidity,4,57.14%,80.00%,3,42.86%,33.33%,7,100%,50.00%
+Normal Humidity,1,14.29%,20.00%,6,85.71%,66.67%,7,100%,50.00%
+Total,5,35.71%,100%,9,64.29%,100%,14,100%,100%

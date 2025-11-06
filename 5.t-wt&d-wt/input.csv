@@ -1,0 +1,5 @@
+Class,Type,Count
+High Humidity,Play,3
+High Humidity,No Play,4
+Normal Humidity,Play,6
+Normal Humidity,No Play,1

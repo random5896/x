@@ -1,0 +1,7 @@
+Pair,Correlation
+tid 1-tid 2,3.33333
+tid 1-tid 3,2.22222
+tid 1-tid 4,2.22222
+tid 2-tid 3,4.16667
+tid 2-tid 4,3.33333
+tid 3-tid 4,2.22222

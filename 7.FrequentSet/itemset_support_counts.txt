@@ -1,0 +1,22 @@
+Itemset Support Counts (min support = 30%, count ≥ 2)
+
+Itemsets of size 1:
+{ Beer } -> Support Count: 2
+{ Bread } -> Support Count: 4
+{ Coke } -> Support Count: 2
+{ Diaper } -> Support Count: 4
+{ Milk } -> Support Count: 4
+
+Itemsets of size 2:
+{ Beer Diaper } -> Support Count: 2
+{ Bread Diaper } -> Support Count: 3
+{ Bread Milk } -> Support Count: 3
+{ Coke Diaper } -> Support Count: 2
+{ Coke Milk } -> Support Count: 2
+{ Diaper Milk } -> Support Count: 3
+
+Itemsets of size 3:
+{ Bread Diaper Milk } -> Support Count: 2
+{ Coke Diaper Milk } -> Support Count: 2
+
+No itemsets of size 4 meet the minimum support threshold.
